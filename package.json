@@ -1,0 +1,24 @@
+{
+  "name": "@allbitty/allbitty",
+  "version": "0.0.0",
+  "description": "Allbitty Powerful Platform (E-commerce Blog Template)",
+  "main": "./",
+  "scripts": {
+    "test": "exist 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allbitty/allbitty.git"
+  },
+  "keywords": [
+    "Allbitty",
+    "Dashboard",
+    "Template"
+  ],
+  "author": "allbitty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Allbitty/allbitty/issues"
+  },
+  "homepage": "https://github.com/Allbitty/allbitty#readme"
+}
