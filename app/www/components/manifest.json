@@ -1,0 +1,7 @@
+{
+  "name": "Allbitty",
+  "short_name": "Allbitty",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
